@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Primary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_attachment">Profile</string>
+    <string name="nav_item_images">Favourites</string>
+    <string name="nav_item_location">Location</string>
+    <string name="nav_sub_menu">Sub Menu</string>
+    <string name="nav_sub_menu_item01">Save</string>
+    <string name="nav_sub_menu_item02">Shopping</string>
+    <string name="nav_sub_menu_item03">Image</string>
+    <string name="nav_sub_menu_item04">Exit</string>
+    <string name="drawer_header_text">Mrugan Kamat Tarcar</string>
+    <string name="second_activity_text" translatable="false"> For opposite reasons, neither the Greek nor the Jewish mind lent itself readily to mysticism: the Greek, because of its clear and sunny naturalism; the Jewish, because of its rigid monotheism and its turn towards worldly realism and statutory observance.</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="action_search">Search</string>
+    <string name="nav_item_setting">Setting</string>
+</resources>
